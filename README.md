@@ -1,4 +1,4 @@
-# git-seppuku
+# git-seppuku![seppuku](https://i.imgur.com/ECJpJDR.png)
 >  For when your branch is having a bad day.
 
 * Deletes all files in directory without preserving root. 
