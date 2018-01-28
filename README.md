@@ -7,7 +7,7 @@
 
 # Usage
 
-> Insert usage information here ...
+`$ ./seppuku.sh ... Push to all branches. (-a, --all), Show usage. (-h, --help)`
 
 # Hotlines
 
